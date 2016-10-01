@@ -1,0 +1,10 @@
+*.zip
+*.rar
+*~
+./gls
+sps_cleaned.bk1.1/
+*.htm
+*.html
+sed*
+*.htm.bk*
+
