@@ -1,0 +1,1 @@
+paste deva1.1.txt devavrgp1.1.txt tel1.1.txt telvrgp1.1.txt kan1.1.txt kanvrgp1.1.txt ang1.1.txt di1.1.txt pu1.1.txt vrgp1.1.txt dp1.1.txt dv1.1.txt Ri1.1.txt Ru1.1.txt xa1.1.txt iast1.1.txt s_english1.1.2.txt >shira1.1.txt
